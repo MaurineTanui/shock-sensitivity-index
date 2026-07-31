@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard examining which demographic groups are hit hardest — and recover slowest — after major economic shocks.
 
-![Dashboard Screenshot](dashboard snapshot1.png)
+![Dashboard Screenshot](dashboard-snapshot1.png)
 ## Overview
 
 Unemployment doesn't hit every group equally, and it doesn't recover evenly either. This dashboard compares the 2008 Financial Crisis and COVID-19 across sex, age, and race/ethnicity to identify which groups were most severely impacted by each shock, and which are still recovering years later.
